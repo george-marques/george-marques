@@ -1,4 +1,4 @@
-### Olá, eu sou George Marques 👋
+### Olá, me chamo George Marques 👋
 
 <div align="center">
   <a href="https://github.com/george-marques">
